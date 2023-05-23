@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body{
     background-color: #EAF6F6;
+    font-family: 'Roboto', sans-serif;
 }
 hr{
     background-color: white;
@@ -9,6 +12,7 @@ hr{
     border-width: 5px;
     width: 5%;
 }
+
 /* h1,h3{
     color: #66BFBF;
 } */
